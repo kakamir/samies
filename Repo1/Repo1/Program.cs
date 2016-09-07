@@ -14,6 +14,7 @@ namespace Repo1
             Console.ReadLine();
             Console.WriteLine("Hähä");
             Console.ReadLine();
+            Console.Write(".");
 
         }
     }
