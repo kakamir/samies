@@ -10,9 +10,9 @@ namespace Repo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Funkar det elle");
+            Console.WriteLine("Funkar det eller");
             Console.ReadLine();
-            Console.WriteLine("Hähä");
+            Console.WriteLine("");
             Console.ReadLine();
             Console.Write(".");
 
