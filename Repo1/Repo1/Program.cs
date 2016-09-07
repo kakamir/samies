@@ -12,7 +12,9 @@ namespace Repo1
         {
             Console.WriteLine("Funkar det elle");
             Console.ReadLine();
-            
+            Console.WriteLine("Hähä");
+            Console.ReadLine();
+
         }
     }
 }
