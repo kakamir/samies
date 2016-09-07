@@ -12,10 +12,10 @@ namespace Repo1
         {
             Console.WriteLine("Funkar det eller");
             Console.ReadLine();
-            Console.WriteLine("");
+            Console.WriteLine("hehehehehehe");
             Console.ReadLine();
             Console.Write(".");
-
+hehehehehehehehe
         }
     }
 }
